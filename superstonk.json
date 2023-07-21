@@ -4,10 +4,10 @@
     {
       "name": "superstonk",
       "sources": [
-        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superstonk_place_f.png"
+        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superston_place_v10.png"
       ],
-      "x": 229,
-      "y": 857
+      "x": 228,
+      "y": 856
     }
   ],
   "whitelist": [
