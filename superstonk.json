@@ -4,18 +4,10 @@
     {
       "name": "superstonk",
       "sources": [
-        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superstonk_place_v21.png"
+        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superstonk_place_v22.png"
       ],
       "x": 1741,
       "y": 1229
-    },
-    {
-      "name": "gamestop_playr",
-      "sources": [
-        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/playr_place.png"
-      ],
-      "x": 715,
-      "y": 1979
     }
   ],
   "whitelist": [
