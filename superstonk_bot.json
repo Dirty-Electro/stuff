@@ -1,0 +1,15 @@
+{
+  "contact": "discord.gg/superstonk, @dirtyelectro or @platinumsparkles",
+  "templates": [
+    {
+      "name": "superstonk",
+      "sources": [
+        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/superstonk_place_v24.png"
+      ],
+      "x": 2241,
+      "y": 1229
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
