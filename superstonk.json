@@ -8,14 +8,6 @@
       ],
       "x": 2241,
       "y": 1229
-    },
-    {
-      "name": "playr",
-      "sources": [
-        "https://raw.githubusercontent.com/Dirty-Electro/stuff/main/playr.png"
-      ],
-      "x": 2734,
-      "y": 1984
     }
   ],
   "whitelist": [
